@@ -1,0 +1,8 @@
+# custom blocklist
+
+0.0.0.0 api.bugsnag.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 advertising.twitter.com
