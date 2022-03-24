@@ -6,3 +6,6 @@
 0.0.0.0 cdn.luckyorange.com
 0.0.0.0 w1.luckyorange.com
 0.0.0.0 advertising.twitter.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 news.iadsdk.apple.com
+
